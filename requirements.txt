@@ -1,0 +1,9 @@
+langchain
+openai==0.28
+PyPDF2
+faiss-cpu
+huggingface-hub
+python-dotenv
+sentence-transformers
+streamlit
+streamlit-extras
